@@ -14,3 +14,14 @@ public class WhenYouStoreGamesInADatabase {
     }
 
 }
+
+public class newClass{
+
+	//Testing this functionality of Github
+
+}
+
+public class Chnage2{
+
+	//new set of changes
+}
